@@ -1,6 +1,6 @@
 # Cell-Nuclei Segmentation using U-Net in Python
 
-<img src="images/banner-02.png" width=1000 />
+<img src="images/banner-02.png" width=500 />
 
 ## 1. Objective
 
