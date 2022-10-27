@@ -1,6 +1,6 @@
 # Cell-Nuclei Segmentation using U-Net in Python
 
-<img src="images/banner-02.png" width=500 />
+<img src="images/banner-02.png" width="1000" />
 
 ## 1. Objective
 
@@ -496,7 +496,7 @@ plt<span style="color:#808030; ">.</span>title<span style="color:#808030; ">(</s
     plt<span style="color:#808030; ">.</span>axis<span style="color:#808030; ">(</span><span style="color:#0000e6; ">'off'</span><span style="color:#808030; ">)</span>
 </pre>
 
-<img src="images/sample-16-test-images.jpg" width=1000 />
+<img src="images/sample-16-test-images.jpg" width="1000" />
 
 ### 4.3. Step 3: Build the U-Net model:
 
@@ -520,7 +520,7 @@ img_width <span style="color:#808030; ">=</span> <span style="color:#008c00; ">6
 Image<span style="color:#808030; ">(</span>filename <span style="color:#808030; ">=</span> SAMPLE_IMAGES_PATH <span style="color:#44aadd; ">+</span> <span style="color:#0000e6; ">"Implemented-U-Net.JPG"</span><span style="color:#808030; ">,</span> width<span style="color:#808030; ">=</span>img_width<span style="color:#808030; ">,</span> height<span style="color:#808030; ">=</span>img_height<span style="color:#808030; ">)</span>
 </pre>
 
-<img src="images/U-Net-Structure.PNG" width=1000 />
+<img src="images/U-Net-Structure.PNG" width="1000" />
 
 #### 4.3.2. Define the U-Net model layers:
 
@@ -939,7 +939,7 @@ plt<span style="color:#808030; ">.</span>title<span style="color:#808030; ">(</s
 </pre>
 
 
-<img src="images/U-Net-performance-5-sample-train-images.JPG" width=1000 />
+<img src="images/U-Net-performance-5-sample-train-images.JPG" width="1000" />
 
 #### 4.5.2. Visualize the predictions of the trained U-Net model for 5 randomly selected validation images:
 
@@ -1011,7 +1011,7 @@ plt<span style="color:#808030; ">.</span>title<span style="color:#808030; ">(</s
     plt<span style="color:#808030; ">.</span>axis<span style="color:#808030; ">(</span><span style="color:#0000e6; ">'off'</span><span style="color:#808030; ">)</span>
 </pre>
 
-<img src="images/U-Net-performance-5-sample-validation-images.JPG" width=1000 />
+<img src="images/U-Net-performance-5-sample-validation-images.JPG" width="1000" />
 
 
 #### 4.5.3. Visualize the predictions of the trained U-Net model for 5 randomly selected test images:
@@ -1066,7 +1066,7 @@ plt<span style="color:#808030; ">.</span>title<span style="color:#808030; ">(</s
 </pre>
 
 
-<img src="images/U-Net-performance-5-sample-testing-images.JPG" width=1000 />
+<img src="images/U-Net-performance-5-sample-testing-images.JPG" width="1000" />
 
 ### 4.6. Step 6: Save the trained CNN model:
 
