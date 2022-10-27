@@ -1110,7 +1110,7 @@ now <span style="color:#808030; ">=</span> datetime<span style="color:#808030; "
     * Evaluate its performance on the labelled testing subset using quantitative metrics.
 
 
-7. References
+## 7. References
 
 1. Kaggle. 2018 Data Science Bowl: Find the nuclei in divergent images to advance medical discovery.  https://www.kaggle.com/c/data-science-bowl-2018/data
 2. Long, F.  Microscopy cell nuclei segmentation with enhanced U-Net. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3332-1
